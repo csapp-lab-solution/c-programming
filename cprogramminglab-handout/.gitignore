@@ -1,0 +1,13 @@
+# Temporary files
+*~
+._*
+core
+*.dSYM
+
+# Generated files
+qtest
+*.o
+cprogramminglab-handin.tar
+
+# vscode
+.vscode
